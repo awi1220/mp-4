@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="859abcff-ef35-4416-b0ee-1bde1b49accd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/[city]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/[city]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/getWeatherData/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/getWeatherData/route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/weatherCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/weatherCard.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="859abcff-ef35-4416-b0ee-1bde1b49accd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +59,7 @@
       <updated>1729705460983</updated>
       <workItem from="1729705462247" duration="5052000" />
       <workItem from="1729878628244" duration="2000" />
-      <workItem from="1729878643999" duration="7988000" />
+      <workItem from="1729878643999" duration="8619000" />
     </task>
     <servers />
   </component>
